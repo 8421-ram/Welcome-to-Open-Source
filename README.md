@@ -5510,6 +5510,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         <b>Lokesh Farswan</b>
                     </sub>
                 </a>
-            </td>
+           <td align="center">
+    <a href="https://github.com/8421-ram">
+        <img src="https://github.com/8421-ram.png" width="100px;" alt="Rama Gopala Krishna"/>
+        <br />
+        <sub>
+            <b>Rama Gopala Krishna</b>
+        </sub>
+    </a>
+</td>
     </tbody>
 </table>
